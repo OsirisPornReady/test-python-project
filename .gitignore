@@ -1,0 +1,4 @@
+**/.idea/
+# 忽略pycache
+**/__pycache__/
+venv/
